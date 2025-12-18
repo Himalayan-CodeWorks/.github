@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/db2f678a-c3ce-4567-8e8c-a6c95f4726a8" alt="HimalayanCodeWorks Logo" width="400"/>
-  
+  <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/ea583fe3-eae7-4e69-9e3b-edad9667fd43" />
+
   # HimalayanCodeWorks
 
   ### Crafting Digital Solutions from the Roof of the World
