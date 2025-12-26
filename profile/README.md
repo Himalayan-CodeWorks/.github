@@ -56,7 +56,7 @@ We welcome contributions, collaborations, and partnerships! Whether you're a dev
 
 Have a project in mind? Want to collaborate? Reach out to us!
 
-**Email:** [dev@santoshdahal.info.np](mailto:dev@santoshdahal.info.np)
+**Email:** [himalayancodeworks@gmail.com](mailto:himalayancodeworks@gmail.com)
 
 ## 📄 License
 
