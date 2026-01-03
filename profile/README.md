@@ -1,5 +1,7 @@
 <div align="center">
-  <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/fe76aadb-a7e5-4020-a836-02845de4860b" />
+<img width="1136" height="264" alt="image" src="https://github.com/user-attachments/assets/0ded6e9c-5dbd-4deb-9c65-913bc3d8e63a" />
+
+
 
   # HimalayanCodeWorks
 
