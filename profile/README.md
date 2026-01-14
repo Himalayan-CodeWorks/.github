@@ -6,7 +6,7 @@
 
   ### Crafting Digital Solutions from the Roof of the World
 
-  [![Email](https://img.shields.io/badge/Email-dev%40santoshdahal.info.np-blue?style=flat-square&logo=gmail)](mailto:dev@santoshdahal.info.np)
+  [![Email](https://img.shields.io/badge/Email-info%40himalayancodeworks.com-blue?style=flat-square&logo=gmail)](mailto:info@himalayancodeworks.com)
 
 </div>
 
@@ -57,7 +57,7 @@ We welcome contributions, collaborations, and partnerships! Whether you're a dev
 
 Have a project in mind? Want to collaborate? Reach out to us!
 
-**Email:** [himalayancodeworks@gmail.com](mailto:himalayancodeworks@gmail.com)
+**Email:** [info@himalayancodeworks.com](mailto:info@himalayancodeworks.com)
 
 ## 📄 License
 
@@ -66,6 +66,5 @@ Unless otherwise specified, our projects are released under the MIT License. Che
 ---
 
 <div align="center">
-  <p>Built with ❤️ in Nepal 🇳🇵</p>
-  <p><strong>HimalayanCodeWorks</strong> – Elevating Code to New Heights</p>
+  <p><strong>HimalayanCodeWorks</strong> – Code. Climb. Create.</p>
 </div>
