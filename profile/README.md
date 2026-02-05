@@ -66,5 +66,5 @@ Unless otherwise specified, our projects are released under the MIT License. Che
 ---
 
 <div align="center">
-  <p><strong>HimalayanCodeWorks</strong> – Code. Climb. Create.</p>
+  <p><strong>HimalayanCodeWorks</strong> "Code. Climb. Create."</p>
 </div>
