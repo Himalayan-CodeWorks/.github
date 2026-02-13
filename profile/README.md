@@ -1,6 +1,7 @@
 <div align="center">
-<img width="1037" height="241" alt="Banner" src="https://github.com/user-attachments/assets/00dac567-519b-4eee-a416-00ddf618c400" />
 
+
+<img width="1080" height="312" alt="Frame 22" src="https://github.com/user-attachments/assets/97fa2e27-a532-485f-98a0-7873d808c6f3" />
 
   # HimalayanCodeWorks
 
