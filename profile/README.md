@@ -1,13 +1,11 @@
 <div align="center">
 
-
-<img width="1080" height="312" alt="Frame 22" src="https://github.com/user-attachments/assets/97fa2e27-a532-485f-98a0-7873d808c6f3" />
+<img width="1128" height="191" alt="image" src="https://github.com/user-attachments/assets/e420971a-a967-4b17-8b9a-f0b8ba5ddc42" />
 
   # HimalayanCodeWorks
 
-  ### Crafting Digital Solutions from the Roof of the World
+  ### CODE. CLIMB. CREATE.
 
-  [![Email](https://img.shields.io/badge/Email-info%40himalayancodeworks.com-blue?style=flat-square&logo=gmail)](mailto:info@himalayancodeworks.com)
 
 </div>
 
