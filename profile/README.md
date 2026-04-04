@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="1128" height="191" alt="image" src="https://github.com/user-attachments/assets/e420971a-a967-4b17-8b9a-f0b8ba5ddc42" />
+
+<img width="1128" height="191" alt="image" src="https://github.com/user-attachments/assets/810742cd-4a50-4fc0-87a8-e26152202a80" />
+
 
   # HimalayanCodeWorks
 
@@ -56,7 +58,7 @@ We welcome contributions, collaborations, and partnerships! Whether you're a dev
 
 Have a project in mind? Want to collaborate? Reach out to us!
 
-**Email:** [info@himalayancodeworks.com](mailto:info@himalayancodeworks.com)
+**Email:** [hello@himalayancodeworks.com](mailto:hello@himalayancodeworks.com)
 
 ## License
 
